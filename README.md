@@ -1,4 +1,5 @@
 ## Henrique Andrade, Vulgo Henriquera
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquera00&layout=compact&langs_count=10)
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
