@@ -1,18 +1,18 @@
-# Olá, eu sou o Henrique! 👋
+# Olá, eu sou o Henrique!
 
 Sou estudante de **Ciência da Computação na UFC (Universidade Federal do Ceará) - Campus Quixadá**. Sou um entusiasta de tecnologia construindo projetos que unem **hardware, software, Inteligência Artificial e Desenvolvimento Web**.
 
-- 🔭 Atualmente estou desenvolvendo o **JORG-E**, um robô interativo com reconhecimento de voz e avatar expressivo.
-- 🌱 Estou aprendendo sobre **Visão Computacional**.
-- 💬 Pergunte-me sobre **Arduino, ESP32, Processing, Python, React, JavaScript** e **IA local**.
-- 🎓 Aluno da [UFC Quixadá](https://quixada.ufc.br/)
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/henriquera00/) | [Email](chenriqueac00@gmail.com)
+- Atualmente estou desenvolvendo o **JORG-E**, um robô interativo com reconhecimento de voz e avatar expressivo.
+- Estou aprendendo sobre **Visão Computacional**.
+- Pergunte-me sobre **Arduino, ESP32, Processing, Python, React, JavaScript** e **IA local**.
+- Aluno da [UFC Quixadá](https://quixada.ufc.br/)
+- Como me encontrar: [LinkedIn](https://www.linkedin.com/in/henriquera00/) | [Email](chenriqueac00@gmail.com)
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🤖 [JORG-E: Robô Conversacional e Interativo](https://github.com/henriquera00/jorg-e)
+### [JORG-E: Robô Conversacional e Interativo](https://github.com/henriquera00/jorg-e)
 
 Um robô de mesa com avatar OLED que responde a comandos de voz, reage a movimentos físicos (sacudidas e inclinação) e controla componentes como LEDs. O grande diferencial é o uso de **IA local (Whisper)** para reconhecimento de voz em português, rodando 100% offline. 
 
@@ -26,7 +26,7 @@ Um robô de mesa com avatar OLED que responde a comandos de voz, reage a movimen
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 **Hardware & Embarcados:**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -50,7 +50,7 @@ Um robô de mesa com avatar OLED que responde a comandos de voz, reage a movimen
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
@@ -70,6 +70,6 @@ Um robô de mesa com avatar OLED que responde a comandos de voz, reage a movimen
 
 ---
 
-### ✨ Vamos conversar!
+### Vamos conversar!
 
 Estou sempre aberto a aprender coisas novas e colaborar em projetos interessantes. Sinta-se à vontade para entrar em contato!
