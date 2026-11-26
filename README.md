@@ -70,6 +70,10 @@ Um robô de mesa com avatar OLED que responde a comandos de voz, reage a movimen
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/henriquera00/henriquera00/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 ### ✨ Vamos conversar!
 
 Estou sempre aberto a aprender coisas novas e colaborar em projetos interessantes. Sinta-se à vontade para entrar em contato!
