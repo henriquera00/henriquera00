@@ -2,8 +2,8 @@
 
 Sou estudante de **Ciência da Computação na UFC (Universidade Federal do Ceará) - Campus Quixadá**. Sou um entusiasta de tecnologia construindo projetos que unem **hardware, software, Inteligência Artificial e Desenvolvimento Web**.
 
-- 🔭 Atualmente estou desenvolvendo o **JORG-E**, um robô interativo com reconhecimento de voz e avatar expressivo para a disciplina de Programação de Computadores.
-- 🌱 Estou aprendendo sobre **Visão Computacional** e **Sistemas Embarcados**.
+- 🔭 Atualmente estou desenvolvendo o **JORG-E**, um robô interativo com reconhecimento de voz e avatar expressivo.
+- 🌱 Estou aprendendo sobre **Visão Computacional**.
 - 💬 Pergunte-me sobre **Arduino, ESP32, Processing, Python, React, JavaScript** e **IA local**.
 - 🎓 Aluno da [UFC Quixadá](https://quixada.ufc.br/)
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/henriquera00/) | [Email](chenriqueac00@gmail.com)
