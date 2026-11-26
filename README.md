@@ -52,13 +52,21 @@ Um robô de mesa com avatar OLED que responde a comandos de voz, reage a movimen
 
 ## 📊 Estatísticas do GitHub
 
-| Estatísticas | Linguagens Mais Usadas |
-| :---: | :---: |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquera00&show_icons=true&count_private=true&title_color=FF7A1A&text_color=FFD08A&icon_color=FFA133&bg_color=170D06&border_color=E8641B&ring_color=FF7A1A" alt="Estatísticas do GitHub" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquera00&layout=compact&langs_count=7&title_color=FF7A1A&text_color=FFD08A&bg_color=170D06&border_color=E8641B" alt="Linguagens mais usadas" /> |
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=henriquera00&theme=shadow-orange&border=E8641B&stroke=FF7A1A&ring=FF7A1A&fire=FF7A1A&currStreakNum=FFD08A&sideNums=FFD08A&currStreakLabel=FF7A1A&sideLabels=FF7A1A&dates=FFA133" alt="Sequência de contribuições" />
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquera00&show_icons=true&count_private=true&title_color=FF7A1A&text_color=FFD08A&icon_color=FFA133&bg_color=170D06&border_color=E8641B&ring_color=FF7A1A" alt="Estatísticas do GitHub" />
+    </td>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquera00&layout=compact&langs_count=7&title_color=FF7A1A&text_color=FFD08A&bg_color=170D06&border_color=E8641B" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img height="180em" src="https://streak-stats.demolab.com?user=henriquera00&theme=shadow-orange&border=E8641B&stroke=FF7A1A&ring=FF7A1A&fire=FF7A1A&currStreakNum=FFD08A&sideNums=FFD08A&currStreakLabel=FF7A1A&sideLabels=FF7A1A&dates=FFA133" alt="Sequência de contribuições" />
+    </td>
+  </tr>
+</table>
 
 ---
 
