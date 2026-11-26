@@ -1,12 +1,12 @@
 # Olá, eu sou o Henrique! 👋
 
-Sou estudante de **Ciência da Computação na UFC (Universidade Federal do Ceará) - Campus Quixadá**. Sou um entusiasta de tecnologia construindo projetos que unem **hardware, software e Inteligência Artificial**.
+Sou estudante de **Ciência da Computação na UFC (Universidade Federal do Ceará) - Campus Quixadá**. Sou um entusiasta de tecnologia construindo projetos que unem **hardware, software, Inteligência Artificial e Desenvolvimento Web**.
 
 - 🔭 Atualmente estou desenvolvendo o **JORG-E**, um robô interativo com reconhecimento de voz e avatar expressivo para a disciplina de Programação de Computadores.
 - 🌱 Estou aprendendo sobre **Visão Computacional** e **Sistemas Embarcados**.
-- 💬 Pergunte-me sobre **Arduino, ESP32, Processing, Python** e **IA local**.
+- 💬 Pergunte-me sobre **Arduino, ESP32, Processing, Python, React, JavaScript** e **IA local**.
 - 🎓 Aluno da [UFC Quixadá](https://quixada.ufc.br/)
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui/) | [Email](mailto:seu-email@exemplo.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/henriquera00/) | [Email](chenriqueac00@gmail.com)
 
 ---
 
@@ -28,11 +28,23 @@ Um robô de mesa com avatar OLED que responde a comandos de voz, reage a movimen
 
 ## 🛠️ Tecnologias e Ferramentas
 
+**Hardware & Embarcados:**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Software & IA:**
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Processing](https://img.shields.io/badge/-Processing-006699?style=for-the-badge&logo=processing&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Web (Front-end):**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Ferramentas:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
